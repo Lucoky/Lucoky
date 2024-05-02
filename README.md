@@ -22,14 +22,28 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 
 ### Koble (Startup)
 **Full Stack Developer**  
-2023 - Present_
+2023 - Present
 - Developed and maintained GraphQL identity servers and APIs.
 - Collaborated on AI testing and deployment to Azure for matching students with recruiters.
 
 ### Resser
 **Systems Architect / Developer**  
-_2020 - 2023_
-- Implemented Kubernetes architecture for GPS tracking, encompassing services from data ingestion to alert processing and georeferencing.
+2020 - 2023
+
+#### 2020-2021:
+- Dedicated a year to developing on the .NET Framework 4.5, maintaining the GPS server, website API, and worker processes.
+- Designed and implemented a new parser for an upgraded GPS model, handling data such as position (latitude/longitude), timestamp, device ID, battery status, speed, and direction, using TCP communications.
+- Developed a user dashboard from scratch, including the design and backend implementations. Created robust API endpoints and complex SQL queries to handle large data sets, enabling users to retrieve up to a month's data, accommodating scenarios with approximately 200,000 positions per day per user.
+- Significantly optimized a critical system worker that managed geofence entry and exit checks for vehicles; reduced average processing time from 30 seconds to 300 milliseconds by redesigning the algorithm and improving data handling efficiency, ensuring comprehensive processing of position data.
+
+#### 2021-2023:
+- Rebuilt the GPS server on .NET 6, adopting a microservices architecture to enhance scalability and reliability:
+    - Utilized Event Hub to manage 5-7 million messages per day.
+    - Employed Kubernetes for orchestrating microservices involved in parsing, saving messages, processing alerts, and calculating georeferences (street names, city, state, and country names).
+    - Used Docker to create and manage images for all microservices.
+    - Developed APIs for frontend requests and Websockets for real-time vehicle positioning, report generation, and new vehicle alerts.
+- Contributed to frontend development, employing React with TypeScript and the Ant Design (AntD) library for UI components.
+
 
 ## Education
 

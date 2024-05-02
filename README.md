@@ -15,7 +15,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 - **Databases:** SQL, PostgreSQL
 - **Frameworks:** .NET, Entity Framework, React
 - **Libraries:** Ant Design (AntD)
-- **Architecture & Tools:** Docker, Kubernetes, Azure (Functions, App Services, Event Hub)
+- **Architecture & Tools:** Docker, Kubernetes, Azure (Functions, App Services, Event Hub, Queue)
 - **APIs:** Google, Stripe, and various private APIs
 
 ## Professional Experience
@@ -23,8 +23,10 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 ### Koble (Startup)
 **Full Stack Developer**  
 2023 - Present
-- Developed and maintained GraphQL identity servers and APIs.
-- Collaborated on AI testing and deployment to Azure for matching students with recruiters.
+- Spearheaded the development of a versatile Identity Server supporting multiple users, integrated with Google authentication.
+- Engineered a comprehensive GraphQL API for handling all frontend queries and mutations, configured with conditional authentication based on the request type.
+- Developed a worker for data processing using Azure Functions on .NET 6, enhancing backend efficiency and scalability.
+- Assisted in creating a Docker Compose setup for local environments; this configuration deploys a local Azure storage account and PostgreSQL, designed to facilitate easy and secure testing for developers.
 
 ### Resser
 **Systems Architect / Developer**  

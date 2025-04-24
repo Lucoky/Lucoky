@@ -22,7 +22,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 
 ### Koble (Startup)
 **Full Stack Developer**  
-2023 - Present
+2023 - 2024
 - Spearheaded the development of a versatile Identity Server supporting multiple users, integrated with Google authentication.
 - Engineered a comprehensive GraphQL API for handling all frontend queries and mutations, configured with conditional authentication based on the request type.
 - Developed a worker for data processing using Azure Functions on .NET 6, enhancing backend efficiency and scalability.

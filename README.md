@@ -20,6 +20,11 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 
 ## Professional Experience
 
+### McDonald's
+**Software Engineer III C#/C++/C**
+2025 - Present
+- Contributing to the development of software used in McDonald’s restaurants
+
 ### Koble (Startup)
 **Full Stack Developer**  
 2023 - 2024

@@ -11,7 +11,7 @@
 I am a Computer Systems Engineer with a start in the tech industry as a Junior Backend Developer in 2020. Specializing in .Net and C# development, I've deployed services on Azure and developed frontends using React and TypeScript. My recent work involves leveraging AI to enhance recruitment processes, along with significant experience in GPS tracking system architecture using Kubernetes on Azure.
 
 ## Technical Skills
-- **Languages:** JavaScript, C++, C#, TypeScript, Python
+- **Languages:** JavaScript, C, C++, C#, TypeScript, Python
 - **Databases:** SQL, PostgreSQL
 - **Frameworks:** .NET, Entity Framework, React
 - **Libraries:** Ant Design (AntD)

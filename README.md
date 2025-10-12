@@ -12,10 +12,10 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 
 ## Technical Skills
 - **Languages:** JavaScript, C, C++, C#, TypeScript, Python
-- **Databases:** SQL, PostgreSQL
-- **Frameworks:** .NET, Entity Framework, React
+- **Databases:** SQL, PostgreSQL, RavenDb
+- **Frameworks:** .NET, Entity Framework, React, OpenTelemetry
 - **Libraries:** Ant Design (AntD)
-- **Architecture & Tools:** Docker, Kubernetes, Azure (Functions, App Services, Event Hub, Queue)
+- **Architecture & Tools:** Docker, Kubernetes, Azure (Functions, App Services, Event Hub, Queue), OpenTelemetry
 - **APIs:** Google, Stripe, and various private APIs
 
 ## Professional Experience
@@ -51,6 +51,8 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
     - Developed APIs for frontend requests and Websockets for real-time vehicle positioning, report generation, and new vehicle alerts.
 - Contributed to frontend development, employing React with TypeScript and the Ant Design (AntD) library for UI components.
 
+### **Personal Project – ArDesign**
+- Developed and deployed a responsive website ([ardesign.mx](https://ardesign.mx)) using Next.js and modern frontend design principles.
 
 ## Education
 

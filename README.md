@@ -13,7 +13,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 ## Technical Skills
 - **Languages:** JavaScript, C, C++, C#, TypeScript, Python
 - **Databases:** SQL, PostgreSQL, RavenDb
-- **Frameworks:** .NET, Entity Framework, React, OpenTelemetry
+- **Frameworks:** .NET, Entity Framework, React
 - **Libraries:** Ant Design (AntD)
 - **Architecture & Tools:** Docker, Kubernetes, Azure (Functions, App Services, Event Hub, Queue), OpenTelemetry
 - **APIs:** Google, Stripe, and various private APIs

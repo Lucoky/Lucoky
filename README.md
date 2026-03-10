@@ -21,7 +21,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 ## Professional Experience
 
 ### McDonald's
-** Senior Software Engineer C#/C++/C**
+**Senior Software Engineer C#/C++/C**
 2025 - Present
 - Developing and maintaining software used in McDonald’s restaurant systems.
 - Contributing to a large-scale microservices architecture project.

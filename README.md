@@ -35,6 +35,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 **Full Stack Developer**  
 
 **Tech Stack / Tools:** C#, GraphQL, .NET, Azure, React, NextJs, Python, Github Workflow, Typescript, Docker
+
 2023 - 2024
 - Spearheaded the development of a versatile Identity Server supporting multiple users, integrated with Google authentication.
 - Engineered a comprehensive GraphQL API for handling all frontend queries and mutations, configured with conditional authentication based on the request type.

@@ -23,6 +23,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 ### McDonald's
 **Senior Software Engineer C#/C++/C**
 2025 - Present
+**Tech Stack / Tools:** C#, C++, C, .NET, Microservices, OpenTelemetry, Javascript, Html, Google Cloud Services, Cypress, Docker
 - Developing and maintaining software used in McDonald’s restaurant systems.
 - Contributing to a large-scale microservices architecture project.
 - Implementing backend features using **C#, C++, and C**, focusing on performance and reliability.
@@ -31,6 +32,7 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 
 ### Koble (Startup)
 **Full Stack Developer**  
+**Tech Stack / Tools:** C#, GraphQL, .NET, Azure, React, NextJs, Python, Github Workflow, Typescript, Docker
 2023 - 2024
 - Spearheaded the development of a versatile Identity Server supporting multiple users, integrated with Google authentication.
 - Engineered a comprehensive GraphQL API for handling all frontend queries and mutations, configured with conditional authentication based on the request type.
@@ -40,6 +42,8 @@ I am a Computer Systems Engineer with a start in the tech industry as a Junior B
 ### Resser
 **Systems Architect / Developer**  
 2020 - 2023
+
+**Tech Stack / Tools:** C#, .NET, Azure, React, NextJs, Python, Github Workflow, Typescript, Docker, Kubernetes
 
 #### 2020-2021:
 - Dedicated a year to developing on the .NET Framework 4.5, maintaining the GPS server, website API, and worker processes.
